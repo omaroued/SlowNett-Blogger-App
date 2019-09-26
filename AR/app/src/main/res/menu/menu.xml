@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home"
+        android:title="الرئيسية"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/app_bar_search"
+        android:checkable="true"
+        android:enabled="true"
+        android:title=""
+        android:visible="true"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/news"
+        android:icon="@drawable/newspaper"
+        android:title="أخبار انترنت"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/exclu"
+        android:icon="@drawable/star_outline"
+        android:title="حصريات"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/you"
+        android:icon="@drawable/youtube"
+        android:title="حلقات"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/android"
+        android:icon="@drawable/android"
+        android:title="أندرويد"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/win"
+        android:icon="@drawable/windows"
+        android:title="ويندوز"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/coding"
+        android:icon="@drawable/code_tags"
+        android:title="البرمجة"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/fb"
+        android:icon="@drawable/facebook"
+        android:title="الفيسبوك"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/web"
+        android:icon="@drawable/web"
+        android:title="مواقع"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/pro"
+        android:icon="@drawable/apps"
+        android:title="برامج"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/game"
+        android:icon="@drawable/gamepad_variant"
+        android:title="العاب"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/info"
+        android:icon="@drawable/ic_info_white_24dp"
+        android:title="اتصل بنا"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_refresh"
+        android:title="menu_refresh"
+        android:visible="false"
+        app:showAsAction="never" />
+
+
+</menu>

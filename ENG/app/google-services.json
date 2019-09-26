@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "462027594783",
+    "firebase_url": "https://article-reader-ltr.firebaseio.com",
+    "project_id": "article-reader-ltr",
+    "storage_bucket": "article-reader-ltr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462027594783:android:fba8a2e316c32b9f",
+        "android_client_info": {
+          "package_name": "com.slownett.ltr.blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462027594783-f44h77ubf9gjig5o83msjs8gos861snu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8DzFdo7qVZmE69Aajyi0Soj6hfqfJWnE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

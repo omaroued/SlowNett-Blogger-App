@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "6123005143",
+    "firebase_url": "https://slownett-7a1ad.firebaseio.com",
+    "project_id": "slownett-7a1ad",
+    "storage_bucket": "slownett-7a1ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6123005143:android:29ed23b341967a17",
+        "android_client_info": {
+          "package_name": "com.slownett.tn.blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6123005143-18dv4bjkqj2que9hrmf4vuupgblprpj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.slownett.tn.blog",
+            "certificate_hash": "5f5eb23b85895099d0a2e3f60b1f14db1256a515"
+          }
+        },
+        {
+          "client_id": "6123005143-bv5p1sbo9cjprqhfmbd5git8n2mou7ia.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "6123005143-bv5p1sbo9cjprqhfmbd5git8n2mou7ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYEOjcWRNXqiAETGOUmOcCFOWNEBS4JHU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6123005143-bv5p1sbo9cjprqhfmbd5git8n2mou7ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
